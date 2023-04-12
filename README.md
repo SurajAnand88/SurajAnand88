@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Passionate MERN Stack Developer. <br>Capable of writing production-ready code using ReactJS, <br>Redux, and CSS on the frontend, NodeJS and Express on the backend<br> to build single page applications. Looking forward to the <br>opportunities that can bring challenges and learnings to leverage and hone skills.<br><br>🔭 I’m currently working on different Project<br>🌱 I’m currently learning<br>⚡ Fun fact - Nothing is permanent
+A Passionate MERN Stack Developer. <br>Capable of writing production-ready code using ReactJS, <br>Redux, and CSS on the frontend, NodeJS and Express on the backend<br> to build single page applications. Looking forward to the <br>opportunities that can bring challenges and learnings to leverage and hone skills.<br><br>🔭 I’m currently working on different Projects<br>🌱 I’m currently learning<br>⚡ Fun fact - Nothing is permanent
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif" width="80%"/>
